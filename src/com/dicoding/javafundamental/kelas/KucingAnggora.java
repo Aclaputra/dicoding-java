@@ -7,6 +7,11 @@ public class KucingAnggora {
 	public KucingAnggora(String name, int berat) {
 		namaKucing = name;
 		beratBadan = berat;
+		
+	}
+	
+	public void printAku() {
+		System.out.println("namaku: " + namaKucing + ", beratku: " + beratBadan);
 	}
 
 
