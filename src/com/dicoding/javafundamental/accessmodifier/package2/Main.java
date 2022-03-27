@@ -12,7 +12,7 @@ public class Main {
        
         KelasB kelasB = new KelasB();
         kelasB.methodC();
-
+        
 	}
 
 }
